@@ -7,6 +7,8 @@ excerpt: ' It is a common question that arises to all those who hear it newly or
   those who have the inspiration to learn it. Generally, we never separate the
   word "Accountancy" from our routine life. Really directly or indirectly we are
   using accounts many times, if you are'
+categories:
+  - category: General
 meta:
   title: ""
 ---
