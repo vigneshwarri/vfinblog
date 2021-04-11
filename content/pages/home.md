@@ -1,30 +1,28 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: vfin
+featuredImage: https://ucarecdn.com/260523fb-035b-42ce-9aed-f883db6fea78/
+subtitle: "> money matters"
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
 ---
+ Hi! readers Vigneshwarri here, generally I have more inspiration on finance and that inspiration make me create this website to share with you all about some interesting facts in finance. In this way I sharing my inspirations in my life. 
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+ ***why Money Inspire Me*** 
+	Some of us have regular earnings and some may have part-time earnings. But we use the same money in different ways, for say., after spending amount to satisfy our basic needs we move further to spend our money on alternative needs, where there is a constant increase in our earnings we will spend more on alternative expenses which is natural /common for human beings. After a speculative period where our constant level of earnings gets reduced or where there is a situation that arises to leave your job, we may lose our capacity to have control over money. Especially for its usage many of us may naturally have the talent of handling money with our own knowledgable techniques and some of us have earnings but don't know to take care of the usage of money. Actually"money can love us, only when we took care of its usage".And that inspires me. on this website, I will give you many techniques and tools which help us in the handling of money like Accountancy.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+***EXPECTATIONS***
 
-# Features
+•	Acccountancy in our Life
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
+•	Types of Accounting
 
-## Get started
+•	Procedures of Accounting
 
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
+•	Primary entries
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+•	Postings of Ledgers
+
+•	Final book
